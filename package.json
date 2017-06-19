@@ -1,0 +1,12 @@
+{
+  "name": "node-postgres-realtime",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/tranduchieu/node-postgres-realtime.git",
+  "author": "Hieu Tran <hieu.tranduc@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gearmanode": "^0.9.2",
+    "pg": "^6.2.4"
+  }
+}
